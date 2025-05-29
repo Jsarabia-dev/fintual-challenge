@@ -4,6 +4,8 @@
 
 The development process followed a methodical, incremental approach guided by test-driven development principles. AI assistance (ChatGPT) was utilized to support planning, code generation, and refinement through iterative collaboration.
 
+🔗 [ChatGPT Collaboration Log](https://chatgpt.com/share/68386847-a8a8-800a-9f94-ff4e83491d49)
+
 Key steps included:
 
 * Defining technical constraints and requirements (Node.js, TypeScript, pnpm, Jest).
